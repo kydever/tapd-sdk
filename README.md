@@ -1,5 +1,7 @@
-# component-creator
+# PHP Tapd SDK
+
+## How to install
 
 ```
-composer create-project hyperf/component-creator
+composer require kydev/tapd
 ```
